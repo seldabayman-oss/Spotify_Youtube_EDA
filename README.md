@@ -28,10 +28,12 @@ YouTube Content Insights: Top video categories and creators with highest engagem
 <img width="766" height="423" alt="374075978-00364314-c664-4f63-ad35-73cc21bd7755" src="https://github.com/user-attachments/assets/25197181-5ea4-47a4-beb3-b0b51dfd4248" />
 
 
+
 Cross-Platform Comparisons: Comparing content engagement patterns between audio (Spotify) and video (YouTube) Examining how content consumption behaviors differ between music listeners and video viewers
 
 
 <img width="778" height="279" alt="374075869-b5067f93-7e45-4bec-95bc-b25f2ad24d61" src="https://github.com/user-attachments/assets/2a8952bf-f65f-4e18-9810-fd03f40be52f" />
+
 
 
 📌 Project Details:
