@@ -1,4 +1,4 @@
-🎧 Spotify & YouTube Data Analysis Project! 📊🎶
+## 🎧 Spotify & YouTube Data Analysis Project! 📊🎶
 
 Hello! 🎉 I’m excited to share my Python-based Spotify and YouTube data analysis project, where I explored the world of music and videos, uncovering some cool and fun insights! 🐍💻
 
