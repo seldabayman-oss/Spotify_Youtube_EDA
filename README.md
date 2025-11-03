@@ -5,7 +5,8 @@ Hello! 🎉 I’m excited to share my Python-based Spotify and YouTube data anal
 Spotify_Youtube_EDA DataSet Information:
 The dataset consists of songs from various artists worldwide, and for each song, it includes: various statistics from the music release on Spotify, including the number of streams; and the view count of the official music video on YouTube."
 
-Spotify_1
+<img width="796" height="400" alt="374071231-5d931578-e434-4350-a0fb-0a60ee7e5ca8" src="https://github.com/user-attachments/assets/f11ead4e-03e5-43f4-882a-824590768a4f" />
+
 
 Spotify Columns: Track: Name of the song or track. Artist: Name of the artist or band who performed the track. Duration_ms: Length of the track in milliseconds. Danceability: Measure of how suitable a track is for dancing, ranging from 0.0 to 1.0. Energy: A measure from 0.0 to 1.0 representing the intensity and activity of the track. Key: The musical key in which the track is composed (0 = C, 1 = C♯/D♭, and so on). Loudness: Average loudness of the track in decibels (dB). Speechiness: Amount of spoken words in a track, ranging from 0.0 to 1.0. Acousticness: Confidence measure from 0.0 to 1.0 of whether the track is acoustic. Instrumentalness: Predicts whether a track contains no vocals. A higher value means the track is more instrumental. Liveness: Detects the presence of an audience in the recording. Higher values indicate more "live" performance. Valence: Describes the musical positiveness of a track. Tracks with high valence sound more positive (happy, cheerful), and tracks with low valence sound more negative (sad, angry). tempo: The overall speed or pace of the track in beats per minute (BPM).
 
@@ -21,17 +22,22 @@ Tools and Libraries Used: Python: pandas, numpy, matplotlib, seaborn, plotly Jup
 
 Key Analysis and Insights: Spotify Music Trends: Popular genres and artists over time Audio features like energy and danceability correlated with track popularity Distribution of track lengths and their popularity impact
 
-YouTube Content Insights: Top video categories and creators with highest engagement Correlation between video views, likes, and dislikes Analysis of video upload frequency and its impact on channel growth. Phyton_8
+YouTube Content Insights: Top video categories and creators with highest engagement Correlation between video views, likes, and dislikes Analysis of video upload frequency and its impact on channel growth. 
+
+<img width="766" height="423" alt="374075978-00364314-c664-4f63-ad35-73cc21bd7755" src="https://github.com/user-attachments/assets/25197181-5ea4-47a4-beb3-b0b51dfd4248" />
+
 
 Cross-Platform Comparisons: Comparing content engagement patterns between audio (Spotify) and video (YouTube) Examining how content consumption behaviors differ between music listeners and video viewers
 
-Phyton_1
+<img width="778" height="279" alt="374075869-b5067f93-7e45-4bec-95bc-b25f2ad24d61" src="https://github.com/user-attachments/assets/2a8952bf-f65f-4e18-9810-fd03f40be52f" />
+
 
 📌 Project Details:
 
 I analyzed Spotify’s top 10 songs and artists 📈🎤 – check out the list of the most popular tracks! 🎶 Looked at the average song duration and found that shorter, more energetic tracks dominate the charts! ⏱⚡ On YouTube, I explored channel-based metrics, likes, comments, and views to identify the most engaging content 🎥👍. Which channels are getting the most views? 👀 Analyzed the distribution of album types; single albums are leading the pack! 📀📊 Explored Spotify metric correlations: Is there a link between song length and popularity? 🎶📊 Compared artists across YouTube and Spotify: Who’s topping the charts on each platform? 🤔📊 Studied the correlations between likes, views, and comments on YouTube; some videos get tons of views but little interaction! 📹❤️💬
 
-Phyton_11
+<img width="1033" height="311" alt="375267343-b44c9896-b9b9-4206-aa15-2d33346863bd" src="https://github.com/user-attachments/assets/439152bd-61cb-47bb-9a61-2dd5a8e9421d" />
+
 
 💡 Key Findings:
 
