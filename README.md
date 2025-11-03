@@ -24,10 +24,12 @@ Key Analysis and Insights: Spotify Music Trends: Popular genres and artists over
 
 YouTube Content Insights: Top video categories and creators with highest engagement Correlation between video views, likes, and dislikes Analysis of video upload frequency and its impact on channel growth. 
 
+
 <img width="766" height="423" alt="374075978-00364314-c664-4f63-ad35-73cc21bd7755" src="https://github.com/user-attachments/assets/25197181-5ea4-47a4-beb3-b0b51dfd4248" />
 
 
 Cross-Platform Comparisons: Comparing content engagement patterns between audio (Spotify) and video (YouTube) Examining how content consumption behaviors differ between music listeners and video viewers
+
 
 <img width="778" height="279" alt="374075869-b5067f93-7e45-4bec-95bc-b25f2ad24d61" src="https://github.com/user-attachments/assets/2a8952bf-f65f-4e18-9810-fd03f40be52f" />
 
@@ -35,6 +37,7 @@ Cross-Platform Comparisons: Comparing content engagement patterns between audio 
 📌 Project Details:
 
 I analyzed Spotify’s top 10 songs and artists 📈🎤 – check out the list of the most popular tracks! 🎶 Looked at the average song duration and found that shorter, more energetic tracks dominate the charts! ⏱⚡ On YouTube, I explored channel-based metrics, likes, comments, and views to identify the most engaging content 🎥👍. Which channels are getting the most views? 👀 Analyzed the distribution of album types; single albums are leading the pack! 📀📊 Explored Spotify metric correlations: Is there a link between song length and popularity? 🎶📊 Compared artists across YouTube and Spotify: Who’s topping the charts on each platform? 🤔📊 Studied the correlations between likes, views, and comments on YouTube; some videos get tons of views but little interaction! 📹❤️💬
+
 
 <img width="1033" height="311" alt="375267343-b44c9896-b9b9-4206-aa15-2d33346863bd" src="https://github.com/user-attachments/assets/439152bd-61cb-47bb-9a61-2dd5a8e9421d" />
 
